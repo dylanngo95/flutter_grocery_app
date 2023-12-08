@@ -11,6 +11,18 @@ This project relied on this [Flutter Getx Template](https://github.com/EmadBelta
 
 ---
 
+## How to install environment
+
+```bash
+
+flutter pub get
+
+flutter create .
+
+flutter run
+
+```
+
 ## Screenshots of the application 📷
 
 ### Splash & Intro Screens
